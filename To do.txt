@@ -1,5 +1,5 @@
 List of things we need to do
-1. change movement from left to right to velocity based so you can move in the air whilst jumping
+1. (change movement from left to right to velocity based so you can move in the air whilst jumping) - done
 2. add a second player
 3. add a start screen
 4. add more characters
