@@ -1,2 +1,2 @@
 # Super-Scratch-Bros
-a simple platformer fighting game made in the scratch engine
+A simple platformer fighting game made in the scratch 3 engine. A collaboration by 2 people. 
