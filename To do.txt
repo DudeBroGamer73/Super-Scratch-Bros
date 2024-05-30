@@ -1,9 +1,9 @@
 List of things we need to do
-1. (change movement from left to right to velocity based so you can move in the air whilst jumping) - done
+1. (change movement from left to right to velocity-based so you can move in the air whilst jumping) - done
 2. add a second player
 3. add a start screen
 4. add more characters
 5. add a character selection screen
 6. add abilities
 7. figure out how to make folders in GitHub to group game files
-8. Delete extra game files off of my computer
+8. (Delete extra game files off of my computer) - done
